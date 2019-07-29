@@ -1,2 +1,3 @@
-# IoT-Based-Waste-Management-System
-IoT Based Waste Management System
+This Project presents a framework of IoT innovation for waste management system. The solution is to enrich the efficiency of waste bin collection activities and cost reduction. The proposed system on top of this framework can be further improved to perform real-time, reliable and efficient waste management system. Customer complaints module will be added and integrates with the message notification system to perform fast response. The map showing the waste bin actual coordinates stored in the database can be further leverage by integration with GPS technology to give the current waste bin location. Alert message can be produce if the waste bin has been reposition to other place or fall down. This monitors the waste collection status in real-time and based on the recorded information they able to measure their operational performance, predict future operation requirements and plan for better service to deliver.
+
+
